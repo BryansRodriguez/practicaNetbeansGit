@@ -30,7 +30,7 @@ public class PracticaGit {
         double result = num1 + num2;
         
         System.out.println("Resultado: " + result);
-        System.out.println("Resultado: " + result);
+        System.out.println(":::::::::::::::::::::");
     }
     
 }
